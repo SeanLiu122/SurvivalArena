@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 This project was packaged for Windows 64-bit. Better to download and run it on a Windows OS 64-bit.
 
 ### Installing
-Clone or download the project, and then launch the .exe file. 
+Clone the project with the git tool, and then launch the Survival.exe file. 
 * Youtube video to show around the project: 
 
 ## Acknowledgments 
