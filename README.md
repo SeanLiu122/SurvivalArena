@@ -11,7 +11,8 @@ This project was packaged for Windows 64-bit. Better to download and run it on a
 
 ### Installing
 Clone the project with the git tool, and then launch the Survival.exe file. 
-* Youtube video to show around the project: https://youtu.be/9WJnajEbwKg
+* Youtube video to show around the project: <br>
+[![Youtube thumbnail image](http://img.youtube.com/vi/9WJnajEbwKg/0.jpg)](https://youtu.be/9WJnajEbwKg, "Unreal Engine Project Demo")
 
 ## Acknowledgments 
 * This project was for the Udemy course: "Unreal Engine 4: How to Develop Your First Two Games" section 3, and instructed by Christopher Murphy.
